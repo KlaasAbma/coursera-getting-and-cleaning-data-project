@@ -3,7 +3,8 @@ Project for Coursera Getting and cleaning data
 
 Introduction
 
-This repository contains my work for the course project for the Coursera course "Getting and Cleaning data", part of the Data Science specialization. What follows first are my notes on the original data.
+This repository contains the work for the project part of the Coursera course "Getting and Cleaning data", part of the Data Science specialization. 
+
 About the raw data
 
 The features (561 of them) are unlabeled and can be found in the x_test.txt. The activity labels are in the y_test.txt file. The test subjects are in the subject_test.txt file.
